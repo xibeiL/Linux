@@ -1,0 +1,22 @@
+创建文件夹    mkdir
+删除文件夹    rmdir
+删除          rm
+查看文件内容    cat
+拷贝     cp
+移动文件      mv
+查看日历      cal
+查看时间      date
+查看电脑当前正在运行的程序     ps
+终止进程        kill
+关机        shutdown
+查看电脑空间        df
+gedit+文件夹名        将ls查出的文件放入文件夹中并以图形形式显示
+在文件内部搜索内容       grep
+在系统中查找文件         find
+归档管理        tar
+打包  tar -cvf
+解包   tar -xvf
+压缩   gzip
+解压   gzip-d
+打包压缩      tar zcvf
+解压解包      tar zxvf
